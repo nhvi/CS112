@@ -34,3 +34,4 @@
 ## CHỦ ĐỀ BÁO CÁO
 * **Số thứ tự chủ đề:** 03 
 * **Tên chủ đề:**  KIỂM TRA TÍNH ĐÚNG ĐẮN VÀ HIỆU NĂNG CỦA CHƯƠNG TRÌNH BẰNG BỘ TEST
+* **Nội dung chi tiết:** Cách tạo bộ test, làm ví dụ với 3 bài toán đã được học trong các môn học trước; Kiểm thử tự động chương trình (Unit test, Black/White test); quiz; bài tập về nhà
