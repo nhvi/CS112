@@ -33,4 +33,4 @@
 
 ## CHỦ ĐỀ BÁO CÁO
 * **Số thứ tự chủ đề:** 03 
-* **Tên chủ đề:**  KIỂM TRA TÍNH ĐÚNG ĐẮN CỦA CHƯƠNG TRÌNH BẰNG BỘ TEST
+* **Tên chủ đề:**  KIỂM TRA TÍNH ĐÚNG ĐẮN VÀ HIỆU NĂNG CỦA CHƯƠNG TRÌNH BẰNG BỘ TEST
